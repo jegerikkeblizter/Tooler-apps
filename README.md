@@ -15,11 +15,5 @@ Tooler is an app I created that provides multiple tools, including a YouTube dow
 ## License
 This project has no specific license—feel free to use it as you wish!
 
-## Future Plans
-Since this is one of my first projects in Python, I plan to improve and expand it over time. Some possible future updates include:
-- Adding more tools
-- Improving the UI
-- Enhancing performance
-
 Any feedback or suggestions are welcome!
 
